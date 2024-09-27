@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @holidaypunk also known as smol.
 - 👀 I’m interested in AI and ML, Python, Photography and Image Processing. 
 - 🌱 I’m currently learning StyleGAN3 and Advanced Calculus for my Machine Learning Projects.
-- 💞️ I’m currently not looking to collaborate on any type Projects based on Python. 
+- 💞️ I’m currently not looking to collaborate.
 - 📫 I'm available on instagram with the same username as of github
