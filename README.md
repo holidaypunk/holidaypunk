@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I am a Post Graduate student in Information Technology at IIEST, with a keen research interest in Cyber Security, particularly Coverless Steganography (with multiple papers published in this area). My current focus areas include Blockchain, Network Security, and general Cybersecurity.
+I am a Post Graduate student in Information Technology at IIEST, with a keen research interest in Cyber Security, 2 years of experience in Coverless Steganography with multiple papers. My current focus areas include Blockchain, Network Security, and general Cybersecurity.
 
 ### 🧑‍💻 Technical Skills
 - **Programming:** Python (primary language, experienced with multiple libraries)
